@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("chomu");
+    printf("Hi");
+    printf("Hello")
 }
